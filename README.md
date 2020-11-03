@@ -67,7 +67,7 @@ Swift.
 - [Pulsator](https://github.com/shu223/Pulsator) - Pulse animation for iOS
 - [Sonar](https://github.com/futuredapp/Sonar) - Radar style view written in swift
 - [SDWebImage](https://github.com/SDWebImage/SDWebImage) - Asynchronous image downloader with cache support as a UIImageView category
-- [FaceAware](https://github.com/BeauNouvelle/FaceAware) - https://github.com/BeauNouvelle/FaceAware
+- [FaceAware](https://github.com/BeauNouvelle/FaceAware) - An extension that gives UIImageView the ability to focus on faces within an image.
 - [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift/) - Beautiful animated Alert View. Written in Swift.
 - [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder written in Swift.
 - [Chameleon](https://github.com/vicc/Chameleon) - Color framework for Swift & Objective-C (Gradient colors, hexcode support, colors from images & more).

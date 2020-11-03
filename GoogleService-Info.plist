@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1087377410840-7rc44843j1efcrgq9fidts17tnpcfb0d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1087377410840-7rc44843j1efcrgq9fidts17tnpcfb0d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCGQ4bv9t-CqTr_mJfvTcgGIhbU3hvWdys</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1087377410840</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.quangluong.EZMeet</string>
+	<key>PROJECT_ID</key>
+	<string>ezmeet-18247</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ezmeet-18247.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1087377410840:ios:8434daaaa7ffc10298ac6d</string>
+	<key>DATABASE_URL</key>
+	<string>https://ezmeet-18247.firebaseio.com</string>
+</dict>
+</plist>

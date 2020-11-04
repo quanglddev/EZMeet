@@ -11,7 +11,7 @@
 ## Usage
 All you have to do is input one-time your home location (or use your current location) and invites friends to join a group chat with you. From that group that, the app can suggest places that are appropriate for meetups with different settings such as: library, caffe, etc.
 
-Login | Set Location | View study decks
+Login | Set Location | Home Screen
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/quanglddev/EZMeet/blob/media/login.PNG?raw=true) | ![](https://github.com/quanglddev/EZMeet/blob/media/set_location.PNG?raw=true) | ![](https://github.com/quanglddev/EZMeet/blob/media/home.PNG?raw=true)
 
